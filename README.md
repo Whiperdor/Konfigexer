@@ -1,0 +1,2 @@
+# Konfigexer
+Konfigurationsmanagement
